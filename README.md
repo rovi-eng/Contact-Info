@@ -4,5 +4,4 @@ email: rovi.enriquez.che@gmail.com
 
 cell: 808-741-9589
 
-discord: rovi
-
+LinkedIn: Rovi Enriquez Jr.
